@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FeedList</string>
+    <string name="action_settings">Settings</string>
+    <string name="none" />
+    <string name="posts">Posts</string>
+    <string name="clear">Clear</string>
+    <string name="reload">Reload</string>
+    <string name="try_again">Ooops, something is wrong \n  Please, try again.</string>
+    <string name="new_posts">%1$d new posts</string>
+</resources>
